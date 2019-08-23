@@ -1,0 +1,14 @@
+{
+  "name": "play_review",
+  "version": "1.0.0",
+  "description": "This script is to extract all the reviews from google play store. uses node.js enviroment, and google-play-scraper library.",
+  "main": "scrape-reviews.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Singh",
+  "license": "ISC",
+  "dependencies": {
+    "google-play-scraper": "^6.2.6",
+  }
+}
